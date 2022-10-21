@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.navbar-brand {
+  font-size: 40px;
+  font-weight: 600;
+  color: #4a4a4a;
+}
+.carousel-caption {
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: initial;
+}
+.course-text h5 {
+  color: #4a4a4a;
+}
